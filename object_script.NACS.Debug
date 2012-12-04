@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\browser.o
+./debug\nacsif.o
+./debug\nacs_func.o
+./debug\nacs.o
+./debug\dialoglogin.o
+./debug\insrdrv.o
+./debug\moc_browser.o
+./debug\moc_nacsif.o
+./debug\moc_nacs.o
+./debug\moc_dialoglogin.o
+./debug\qrc_systray.o
+);

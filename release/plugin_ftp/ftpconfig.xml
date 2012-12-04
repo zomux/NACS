@@ -1,0 +1,8 @@
+<config>
+    <listenip />
+    <ftpport>32000</ftpport>
+    <httpport>32001</httpport>
+    <maxconn>32</maxconn>
+    <pasvmode>yes</pasvmode>
+    <welcomemsg>NACS Ftp Server Accessed.</welcomemsg>
+</config>

@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\browser.o
+./release\nacsif.o
+./release\nacs_func.o
+./release\nacs.o
+./release\dialoglogin.o
+./release\insrdrv.o
+./release\moc_browser.o
+./release\moc_nacsif.o
+./release\moc_nacs.o
+./release\moc_dialoglogin.o
+./release\qrc_systray.o
+);
